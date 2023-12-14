@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.money-value {
+  list-style: none;
+}
+.money-value button {
+  width: 100px;
+  padding: 10px;
+  background-color: #382f5a;
+  color: #d4d2db;
+  border: 1px solid #c4c4c4;
+  cursor: pointer;
+}
